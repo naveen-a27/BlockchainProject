@@ -1,0 +1,63 @@
+.cert {
+  height: 85vh;
+  background: url("cert3.png") no-repeat;
+  background-position: center;
+  margin-left: 150px;
+}
+
+#fname {
+  font-size: 55px;
+  padding-top: 420px;
+  padding-left: 175px;
+}
+
+#course {
+  font-size: 23px;
+  margin-top: 50px;
+  margin-left: 150px;
+  font-weight: bold;
+}
+
+
+#txh {
+  margin-top: 90px;
+  margin-left: -300px;
+}
+
+#id {
+  margin-top: -21px;
+  margin-left: 490px;
+}
+
+.btn {
+  margin-top: 10px;
+}
+.main{
+  position:absolute;
+  top: 40%;
+  left: 45%;
+  width:50em;
+  height:35em;
+  margin-top: -9em; /*set to a negative number 1/2 of your height*/
+  margin-left: -15em; /*set to a negative number 1/2 of your width*/
+  border: 1px solid #ccc;
+  background-color: rgb(255, 250, 234);
+}
+body {
+  -webkit-print-color-adjust: exact !important;
+}
+.byline{
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.award{
+  font-size:2rem;
+}
+.name{
+  font-weight: 600;
+}
+.btn{
+  position: absolute;
+  bottom: 0;
+}
